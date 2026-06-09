@@ -33,7 +33,7 @@ The objective is to identify supplier performance trends, inventory risks, logis
 
 ### Executive Summary
 
-![Executive Summary](PowerBI/Dashboard_Screenshots/Executive_Summary.png)
+Executive Summary.png
 
 ### Supplier Performance
 
