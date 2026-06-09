@@ -33,7 +33,17 @@ The objective is to identify supplier performance trends, inventory risks, logis
 
 ### Executive Summary
 
-Executive Summary.png
+## Executive Summary
+
+![Executive Summary](Executive_Summary.png)
+
+## Supplier Performance
+
+![Supplier Performance](Supplier_Performance.png)
+
+## Inventory & Logistics
+
+![Inventory & Logistics](Inventory & Logistics.png)
 
 ### Supplier Performance
 
